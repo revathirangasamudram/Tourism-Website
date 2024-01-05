@@ -1,0 +1,54 @@
+.background {
+    background-image: url("https://img.freepik.com/free-photo/night-city-view_1417-1742.jpg?w=360&t=st=1667628730~exp=1667629330~hmac=53a2bbd966cd18a89eae6bb9b60241cf2cf0b5d2c94aebbbbc4053466d362653");
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    font-size:40px;
+}
+.taj-card {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding-bottom: 100px;
+    height: 30vh;
+    
+
+
+}
+
+.taj-pic {
+    height: 25vh;
+    width: 25vw;
+    border-width: 2px;
+    border-color: orange;
+   
+    
+
+}
+
+.text-card {
+    
+    border-width: 5px;
+    border-color: orange;
+    margin: 10px;
+    text-align: left;
+    padding:5px;
+    
+
+}
+
+.taj-heading {
+    font-size: 22px;
+    text-align: leff;
+}
+
+.paragrah {
+    font-size:16px;
+    color:black;
+}
